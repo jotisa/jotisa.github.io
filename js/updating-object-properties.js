@@ -18,7 +18,7 @@ var myDog = {
 
 // Only change code below this line.
 
-myDog.name = "Happy Coder";
+myDog.name = "Perro Happy Coder";
 // Display
 var miPerro = myDog.name;
 var mostraralperro = document.getElementById("js_mostrado");
